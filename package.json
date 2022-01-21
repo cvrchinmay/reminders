@@ -1,0 +1,12 @@
+{
+	"name": "reminders",
+	"version": "1.0.0",
+	"description": "generate reminders for expired items",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [],
+	"author": "cvr333",
+	"license": "ISC"
+}
